@@ -1,3 +1,5 @@
+employee-service:
+  yml:
 server:
   port: 8061
 
